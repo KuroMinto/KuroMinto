@@ -1,4 +1,4 @@
-# ⛩️ [ KuroMint ] ⛩️
+<h1 align="center">⛩️ [ KuroMint ] ⛩️</h1>
 <h3 align="center">🔹 Estudiante de Analista Programador 🔹</h3>
 
 <p align="center"> 
