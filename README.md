@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=%3E_System.init();%3E_Cargando_clase:_Analista_Programador...;%3E_Subiendo_nivel_de_Java...;%3E_Estado:_Listo_para_codear." alt="System Loading..." />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=%3E_System.init();%3E_Cargando_clase:_Analista_Programador...;%3E_Subiendo_nivel_de_Python...;%3E_Estado:_Listo_para_codear." alt="System Loading..." />
 </div>
 
 ---
