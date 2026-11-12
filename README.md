@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img alt="Coding..." width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=%3E_System.init();%3E_Cargando_clase:_Analista_Programador...;%3E_Subiendo_nivel_de_Java...;%3E_Estado:_Listo_para_codear." alt="System Loading..." />
 </div>
 
 ---
@@ -40,8 +40,8 @@
 ### 📊 [ Player Stats ]
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kurominto&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Estadísticas de KuroMint" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurominto&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes de KuroMint" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kurominto&show_icons=true&locale=en&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estadísticas de KuroMint" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurominto&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Lenguajes de KuroMint" />
 </div>
 
 <br>
