@@ -14,10 +14,13 @@
 ### 📜 [ Player Info ]
 - **Clase actual:** Técnico Analista Programador
 - **Evolución de clase (A futuro):** Ingeniería Informática / Ciberseguridad
-- **Entrenamiento actual:** Perfeccionando **Python** y **DJango**.
+- **Entrenamiento actual:**
+    • Perfeccionando **Python** y **DJango**.
+    • Aprendiendo **Rust**.
 
 ### ⚔️ [ Active Quests ]
 - Desarrollando una **App de Gestión de Tareas Gamificada** (Inspirada en mecánicas de sistema manhwa con PostgreSQL).
+- Aprendiendo **Rust** mediante la creación de una APP de ToDo Lists, nativa para escritorio.
 
 ---
 
