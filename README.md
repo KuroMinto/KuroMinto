@@ -15,8 +15,8 @@
 - **Clase actual:** Técnico Analista Programador
 - **Evolución de clase (A futuro):** Ingeniería Informática / Ciberseguridad
 - **Entrenamiento actual:**
-    • Perfeccionando **Python** y **DJango**.
-    • Aprendiendo **Rust**.
+  - Perfeccionando **Python** y **DJango**.
+  - Aprendiendo **Rust**.
 
 ### ⚔️ [ Active Quests ]
 - Desarrollando una **App de Gestión de Tareas Gamificada** (Inspirada en mecánicas de sistema manhwa con PostgreSQL).
